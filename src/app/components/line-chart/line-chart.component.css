@@ -1,0 +1,36 @@
+::ng-deep .line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+
+::ng-deep .overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+::ng-deep .dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+
+::ng-deep .focus circle {
+    fill: none;
+    stroke: steelblue;
+}
+::ng-deep .box {
+    float: left;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    clear: both;
+}
+
+::ng-deep .orange {
+    background-color: #ffab00;;
+}
+
+::ng-deep .red {
+    background-color: red;
+}
+

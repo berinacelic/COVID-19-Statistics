@@ -1,0 +1,18 @@
+::ng-deep div.tooltip {
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    font: 12px sans-serif;
+    background: white;
+    border: 0px;
+    horiz-align: center;
+    border-radius: 8px;
+    padding-top: 5px;
+    pointer-events: none;
+}
+
+::ng-deep .scatter-plot-title {
+    text-align: left;
+    margin-left: 71px !important;
+    margin-top: 20px !important;
+}
